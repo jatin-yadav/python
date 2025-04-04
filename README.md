@@ -1,1 +1,2 @@
 # Started Python
+# memory management 
