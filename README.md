@@ -2,3 +2,4 @@
 # memory management 
 # Django 
 # learned migration 
+# learned django ORM
