@@ -3,3 +3,4 @@
 # Django 
 # learned migration 
 # learned django ORM
+# learning Admin panel 
