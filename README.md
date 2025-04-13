@@ -6,3 +6,4 @@
 # learning Admin panel 
 # learning admin crud
 # learning Blockchain 
+# learning proof of work and stack
